@@ -16,7 +16,7 @@ Hi! I'm Abhi Shah, a BTech CSE (AI & DS) student at JECRC University. I'm passio
 - About section with resume link  
 - Skills & tools showcase  
 - Project gallery with GitHub links  
-- Contact form (if included)
+- Contact form
 
 ---
 
@@ -27,13 +27,14 @@ portfolio/
 │
 ├── index.html         # Main HTML file
 ├── style.css          # Stylesheet
-├── script.js          # JavaScript (if any)
-├── assets/            # Images, icons, etc.
+├── script.js          # JavaScript
+├── Resume.pdf         # Resume
+├── images/            # Images.
 └── README.md          # This file
 ```
 🌐 Live Demo
 You can view the live portfolio here:
-👉 https://your-username.github.io/portfolio
+👉 https://abhishah9784.github.io/portfolio
 
 📞 Contact:
 
