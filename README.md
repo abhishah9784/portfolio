@@ -40,9 +40,9 @@ You can view the live portfolio here:
 
 📧 Email: abhishah9784@gmail.com
 
-🔗 LinkedIn: Abhi Shah
+🔗 LinkedIn: https://linkedin.com/in/abhiShah9784
 
-💻 GitHub: abhishah9784
+💻 GitHub: https://github.com/abhishah9784
 
 🙏 Acknowledgements
 Thanks to JECRC University and GeeksforGeeks for continuous learning support and inspiration.
