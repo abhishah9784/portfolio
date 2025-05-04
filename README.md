@@ -31,11 +31,11 @@ portfolio/
 ├── assets/            # Images, icons, etc.
 └── README.md          # This file
 ```
-##🌐 Live Demo
+🌐 Live Demo
 You can view the live portfolio here:
 👉 https://your-username.github.io/portfolio
 
-##📞 Contact:
+📞 Contact:
 
 📧 Email: abhishah9784@gmail.com
 
